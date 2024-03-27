@@ -1,0 +1,9 @@
+{
+    "dart.flutterSdkPath": "C:/flutter_latest",
+    "dart.sdkPath": "C:/flutter_latest/bin/cache/dart-sdk",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1F2F3C",
+        "titleBar.activeBackground": "#2B4255",
+        "titleBar.activeForeground": "#F8FAFB"
+    }
+}

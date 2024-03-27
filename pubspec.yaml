@@ -1,0 +1,49 @@
+name: eventhandler
+description: Simple event handler with singleton constructor. An event is associated with each type of object that it inherits from EventBase.
+version: 1.0.4
+author: Daniel Íñigo Pérez <daniel.inigo.dev@gmail.com>
+homepage: https://gitlab.com/daniel.inigo/dart-eventhandler
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
